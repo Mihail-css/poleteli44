@@ -81,17 +81,10 @@
   display: swap;
 }
 
-@font-face {
-    font-family: 'Cute Ghost';
-    src: url('./../../fonts/zima/CuteGhost.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
 
 @font-face {
-    font-family: 'GoodVibesPro';
-    src: url('./../fonts/zima/GoodVibesPro.woff2') format('woff2');
+    font-family: "GoodVibesPro";
+    src: url("./../fonts/zima/GoodVibesPro.woff2") format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
