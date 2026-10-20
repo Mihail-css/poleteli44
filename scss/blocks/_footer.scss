@@ -1,0 +1,31 @@
+.footer {
+  padding-top: 60px;
+  background-color: #d9ecf3;
+<<<<<<< HEAD
+  padding-bottom: 10px;
+=======
+  padding-bottom:10px;
+>>>>>>> origin/main
+}
+
+// #f5f1f1;
+.footer-desc {
+  margin-bottom: 10px;
+}
+
+.tel a {
+  color: #000;
+}
+/* Mobile */
+@media (max-width: 899px) {
+  .footer {
+    padding-top: 40px;
+  }
+}
+
+.meta {
+  background-color: burlywood;
+  padding: 8px 10px;
+  text-align: center;
+  font-size: 12px;
+}

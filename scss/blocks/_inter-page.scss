@@ -1,0 +1,28 @@
+.inter-page {
+  text-align: center;
+  color: black;
+  line-height: 1.3;
+  span {
+    font-weight: 600;
+  }
+}
+
+// .inter-page__subtitle {
+//   margin-bottom: 10px;
+// }
+
+.items {
+  margin: 10px 0;
+}
+.list-item {
+  font-weight: 600;
+}
+
+.items-start {
+  margin-bottom: 10px;
+}
+.items-start__item {
+  text-align: start;
+  margin-top: 5px;
+  
+}
